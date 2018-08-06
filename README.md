@@ -4,4 +4,4 @@ This code is for the tutorial on using EJS to template your Node and Express app
 
 Check out the full tutorial at [coligo](https://coligo.io/templating-node-and-express-apps-with-ejs/)
 
-cloned from https://github.com/coligo-io/templating-node-and-express-apps-with-ejs
+the guide was taken from https://github.com/coligo-io/templating-node-and-express-apps-with-ejs
